@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "nombres": "Ana",
+        "apellidos": "Leyva",
+        "usuario": "aleyva",
+        "password": "123456",
+        "email": "aleyva@gmail.com",
+        "celular": "924547459"
+    },
+    {
+        "id": "2",
+        "nombres": "Cesar",
+        "apellidos": "Tafur",
+        "usuario": "ctafur",
+        "password": "123456",
+        "email": "ctafur@gmail.com",
+        "celular": "987456257"
+    },
+    {
+        "id": "3",
+        "nombres": "Maria",
+        "apellidos": "Mendoza",
+        "usuario": "mmendoza",
+        "password": "123456",
+        "email": "mmendoza@gmail.com",
+        "celular": "945125459"
+    }
+]
